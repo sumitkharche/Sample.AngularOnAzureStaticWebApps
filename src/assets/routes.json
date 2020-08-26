@@ -7,6 +7,6 @@
 		}
 	],
 	"mimeTypes": {
-        "webmanifest": "text/html"
+        "webmanifest": "application/json"
     }
 }
