@@ -8,6 +8,8 @@
 	],
 	"mimeTypes": {
 		"json": "application/json",
-		"webmanifest": "application/json"
+		"webmanifest": "application/json",
+		"woff":"application/font-woff",
+		"woff2":"application/font-woff"
     }
 }
