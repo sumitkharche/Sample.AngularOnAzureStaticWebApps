@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/201bbd88-5ccc-47b0-b7e5-b7dd65985971/resourceGroups/zmaz-rsg/providers/Microsoft.Web/sites/zmaz",
+    "appService.deploySubpath": "dist\\sample-angular-on-azure-static-web"
+}
