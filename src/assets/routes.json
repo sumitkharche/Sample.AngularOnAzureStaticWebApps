@@ -7,7 +7,7 @@
 		}
 	],
 	"mimeTypes": {
-		"webmanifest": "application/json",
-		"json": "application/json"
+		"json": "application/json",
+		"webmanifest": "application/json"
     }
 }
